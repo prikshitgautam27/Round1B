@@ -1,0 +1,20 @@
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+venv/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker artifacts (if any)
+*.tar
+*.img
+
+# IDE and editor configs
+.vscode/
+.idea/
