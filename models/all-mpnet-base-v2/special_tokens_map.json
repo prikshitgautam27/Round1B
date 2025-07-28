@@ -1,15 +1,3 @@
-{
-  "bos_token": "<s>",
-  "cls_token": "<s>",
-  "eos_token": "</s>",
-  "mask_token": {
-    "content": "<mask>",
-    "lstrip": true,
-    "normalized": false,
-    "rstrip": false,
-    "single_word": false
-  },
-  "pad_token": "<pad>",
-  "sep_token": "</s>",
-  "unk_token": "[UNK]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcb627a4e7bec537fc83832cce1f87886ac7b8c8f9bd65c239223609a40e52d6
+size 295

@@ -1,16 +1,3 @@
-{
-  "bos_token": "<s>",
-  "cls_token": "<s>",
-  "do_lower_case": true,
-  "eos_token": "</s>",
-  "mask_token": "<mask>",
-  "model_max_length": 512,
-  "name_or_path": "C:\\Users\\Harshit/.cache\\torch\\sentence_transformers\\sentence-transformers_all-mpnet-base-v2\\",
-  "pad_token": "<pad>",
-  "sep_token": "</s>",
-  "special_tokens_map_file": null,
-  "strip_accents": null,
-  "tokenize_chinese_chars": true,
-  "tokenizer_class": "MPNetTokenizer",
-  "unk_token": "[UNK]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1913c72997bc393e1e46a6a022039417d64e55c4eaa5c7b0b8241493a2137057
+size 488
